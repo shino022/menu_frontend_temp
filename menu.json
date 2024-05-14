@@ -1,10 +1,16 @@
 {
   "menu": [
     {
-      "rice": ["rice1", "55555"]
+      "rice": [
+        "modifiedRice",
+        "55555"
+      ]
     },
     {
-      "noodle": ["noodle0100", "02"]
+      "noodle": [
+        "githubApiWorked!",
+        "02"
+      ]
     }
   ]
 }
