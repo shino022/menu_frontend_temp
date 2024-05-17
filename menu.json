@@ -2,13 +2,13 @@
   "menu": [
     {
       "rice": [
-        "rice1",
-        "55555"
+        "newrice1",
+        "new55555"
       ]
     },
     {
       "noodle": [
-        "2",
+        "newnoodle2",
         "02"
       ]
     }
