@@ -2,13 +2,13 @@
   "menu": [
     {
       "rice": [
-        "endtoend",
-        "test"
+        "e2e",
+        "the workflow triggered!"
       ]
     },
     {
       "noodle": [
-        "endtoend",
+        "newnoodle2",
         "02"
       ]
     }
